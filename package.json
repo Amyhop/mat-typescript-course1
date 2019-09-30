@@ -1,0 +1,19 @@
+{
+  "name": "mat-typescript-course1",
+  "version": "1.0.0",
+  "description": "\"Safebear Test Automation Framework\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amyhop/mat-typescript-course1.git"
+  },
+  "author": "Amy Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amyhop/mat-typescript-course1/issues"
+  },
+  "homepage": "https://github.com/Amyhop/mat-typescript-course1#readme"
+}
