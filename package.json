@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "test": "protractor ./e2ejs/protractor.conf.js",
+    "test": "npm run clean && npm run build && protractor ./e2ejs/protractor.conf.js",
     "clean": "rimraf e2ejs",
     "clean-build": "npm run clean && npm run build"
 
